@@ -3,7 +3,7 @@ package uz.pdp.parking;
 public class Car {
     private String model;
     private String color;
-    private String number;
+    private String number;//fffff
     private String type;
 
     public Car() {
